@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/ElongationPreview/ElongationPreview/Source/Views/ElongationCell.swift"
+            timestampString = "572763897.557513"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "287"
+            endingLineNumber = "287"
+            landmarkName = "Keys"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "globalinit_33_8D617D3EE17615CD9488E93815F822C3_func3"
+                  moduleName = "ElongationPreview"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sanjeev/Desktop/Meteros/Pods/ElongationPreview/ElongationPreview/Source/Views/ElongationCell.swift"
+                  timestampString = "572747188.0517401"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "287"
+                  endingLineNumber = "287"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ElongationPreview.ElongationCell.(Keys in _8D617D3EE17615CD9488E93815F822C3).topView.unsafeMutableAddressor : Swift.String"
+                  moduleName = "ElongationPreview"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sanjeev/Desktop/Meteros/Pods/ElongationPreview/ElongationPreview/Source/Views/ElongationCell.swift"
+                  timestampString = "572747188.0561759"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "287"
+                  endingLineNumber = "287"
+                  offsetFromSymbolStart = "4">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

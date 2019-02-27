@@ -1,0 +1,6 @@
+framework module Pods_MeterosUITests {
+  umbrella header "Pods-MeterosUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
